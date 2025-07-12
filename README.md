@@ -50,8 +50,8 @@ npm start
 |--------------------|--------------------------------------|
 | **Daksh Mehta**     | 🧠 Team Leader, Frontend & Product     |
 | **Bhavik Sharma**   | ⚙️ Backend & Logic Developer           |
-| **Pratham Suthar**  | 🎨 UI/UX Designer & Frontend           |
-| **Shruti Vaishnav** | 🔍 Research & Testing                  |
+| **Pratham Suthar**  | 🔍 Research & Testing & Backend          |
+| **Shruti Vaishnav** | 🎨 UI/UX Designer & Frontend                  |
 
 ---
 
